@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "press",
+  "short_name": "press",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
