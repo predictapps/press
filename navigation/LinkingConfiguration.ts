@@ -28,13 +28,16 @@ const linking: LinkingOptions<RootStackParamList> = {
       Prediction: {
         path: 'prediction/:score',
       },
+      Info: {
+        path: 'info',
+      },
       BottomTab: {
         screens: {
           About: {
             path: 'about',
           },
-          Contact: {
-            path: 'contact',
+          Terms: {
+            path: 'terms',
           },
         },
       },

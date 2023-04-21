@@ -15,10 +15,7 @@ const myTheme = {
 }
 
 const Navigation = () => (
-  <NavigationContainer
-    linking={Platform.OS === 'web' ? undefined : LinkingConfiguration}
-    theme={myTheme}
-  >
+  <NavigationContainer linking={LinkingConfiguration} theme={myTheme}>
     <RootNavigator />
   </NavigationContainer>
 )

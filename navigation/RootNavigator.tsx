@@ -11,6 +11,7 @@ import P4 from '../screens/P4'
 import P5 from '../screens/P5'
 import BottomTabNavigator from './BottomTabNavigator'
 import Prediction from '../screens/Prediction'
+import Info from '../screens/Info'
 
 const Stack = createNativeStackNavigator<RootStackParamList>()
 
@@ -40,6 +41,7 @@ const RootNavigator = () => (
         options={{ title: 'Impairment of oral intake' }}
       />
       <Stack.Screen name="Prediction" component={Prediction} />
+      <Stack.Screen name="Info" component={Info} />
       <Stack.Screen name="BottomTab" component={BottomTabNavigator} />
       <Stack.Screen name="NotFound" component={NotFound} />
     </Stack.Group>

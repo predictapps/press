@@ -21,6 +21,7 @@ export type RootStackParamList = {
   Prediction: {
     score: number
   }
+  Info: undefined
   BottomTab: NavigatorScreenParams<BottomTabParamList>
   NotFound: undefined
 }
