@@ -1,4 +1,12 @@
-import { Box, Heading, HStack, Icon, IconButton, ScrollView } from 'native-base'
+import {
+  Box,
+  Heading,
+  HStack,
+  Icon,
+  IconButton,
+  Link,
+  ScrollView,
+} from 'native-base'
 
 import Hr from '../components/Hr'
 import Li from '../components/Li'
@@ -77,7 +85,11 @@ const About = ({ navigation }: BottomTabScreenProps<'About'>) => (
         <Heading size="md" py="2">
           Reference manuscript:
         </Heading>
-        <Li>To be included after acceptance of manuscript.</Li>
+        <Link href="https://jamanetwork.com/journals/jamaneurology/fullarticle/2723504">
+          Galovic, M. et al. Development and Validation of a Prognostic Model of
+          Swallowing Recovery and Enteral Tube Feeding After Ischemic Stroke.
+          JAMA Neurol 76, 561–570 (2019).
+        </Link>
       </Box>
     </ScrollView>
   </>
