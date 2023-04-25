@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/press/static/js/main.b9a793c9.js",
-    "static/js/287.20b2c300.js": "/press/static/js/287.20b2c300.js",
+    "main.js": "/press/static/js/main.d9399203.js",
+    "static/js/431.4144475b.js": "/press/static/js/431.4144475b.js",
     "static/media/MaterialCommunityIcons.ttf": "/press/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/p3.png": "/press/static/media/p3.1f1a8fd5d9345b09f88b.png",
     "static/media/table.jpg": "/press/static/media/table.0667ba0390320747a1da.jpg",
@@ -10,13 +10,13 @@
     "index.html": "/press/index.html",
     "favicon-32.png": "/press/favicon-32.png",
     "favicon-16.png": "/press/favicon-16.png",
-    "serve.json": "/press/serve.json",
     "manifest.json": "/press/manifest.json",
-    "main.b9a793c9.js.map": "/press/static/js/main.b9a793c9.js.map",
-    "287.20b2c300.js.map": "/press/static/js/287.20b2c300.js.map"
+    "serve.json": "/press/serve.json",
+    "main.d9399203.js.map": "/press/static/js/main.d9399203.js.map",
+    "431.4144475b.js.map": "/press/static/js/431.4144475b.js.map"
   },
   "entrypoints": [
-    "static/js/287.20b2c300.js",
-    "static/js/main.b9a793c9.js"
+    "static/js/431.4144475b.js",
+    "static/js/main.d9399203.js"
   ]
 }

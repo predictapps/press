@@ -5,5 +5,12 @@
   "name": "press",
   "short_name": "press",
   "start_url": "/?utm_source=web_app_manifest",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "ch.kssg.press"
+    }
+  ],
+  "prefer_related_applications": true
 }
