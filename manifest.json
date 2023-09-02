@@ -10,6 +10,11 @@
     {
       "platform": "itunes",
       "id": "ch.kssg.press"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=ch.kssg.press",
+      "id": "ch.kssg.press"
     }
   ],
   "prefer_related_applications": true
